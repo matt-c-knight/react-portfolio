@@ -7,9 +7,9 @@ function NavBar() {
         <div className="nav">
             <ul>
                 <li className="nav"><Link to="/">Home</Link></li>
-                <li className="nav"><Link to="/articles">Projects</Link></li>
-                <li className="nav"><Link to="/contacts">About Me</Link></li>
-                <li className="nav"><Link to="/will">Contact</Link></li>
+                <li className="nav"><Link to="/projects">Projects</Link></li>
+                <li className="nav"><Link to="/about">About Me</Link></li>
+                <li className="nav"><Link to="/contact">Contact</Link></li>
             </ul>
         </div>
     )

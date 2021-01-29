@@ -5,6 +5,7 @@
     padding-top: 10px;
     height: 20px;
     text-decoration: none;
+    /* margin-top: -50px; */
 
 }
 
@@ -17,7 +18,7 @@ ul, li {
     text-decoration: none;
 }
 
-li { 
+li, a { 
     text-decoration: none;
-
+    color: whitesmoke;
 }
