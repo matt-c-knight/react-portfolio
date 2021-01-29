@@ -1,0 +1,23 @@
+.nav {
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    padding-top: 10px;
+    height: 20px;
+    text-decoration: none;
+
+}
+
+ul {
+    margin-top: -50px;
+    
+}
+
+ul, li {
+    text-decoration: none;
+}
+
+li { 
+    text-decoration: none;
+
+}
