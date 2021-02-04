@@ -1,6 +1,6 @@
 .nav {
     display: inline-block;
-    float: right;
+    /* float: center; */
     padding: 10px;
     padding-top: 10px;
     height: 20px;
@@ -10,7 +10,7 @@
 }
 
 ul {
-    margin-top: -50px;
+    margin-bottom: 100px;
     
 }
 

@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './components/Header';
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
@@ -12,7 +12,7 @@ function App() {
     <Router>
     <div className="App">
      <Header />
-     <Navbar />
+     {/* <Navbar /> */}
      <Route exact path="/about" component={About} />
      <Route exact path="/projects" component={Portfolio} />
      <Route exact path="/contact" component={Contact} />
